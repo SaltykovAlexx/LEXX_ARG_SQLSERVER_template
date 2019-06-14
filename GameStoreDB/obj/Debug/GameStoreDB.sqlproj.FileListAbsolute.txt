@@ -1,0 +1,10 @@
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\bin\Debug\GameStoreDB.dacpac
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\bin\Debug\GameStoreDB.dll
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\bin\Debug\GameStoreDB.pdb
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\GameStoreDB.sqlprojAssemblyReference.cache
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\Model.xml
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\refactor.xml
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\postdeploy.sql
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\predeploy.sql
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\GameStoreDB.dll
+C:\Users\osalt\source\repos\LEXX_ARG_SQLSERVER_template\GameStoreDB\obj\Debug\GameStoreDB.pdb
